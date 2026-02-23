@@ -70,25 +70,7 @@ const Education = () => {
           </div>
           <div>
           </div>
-          <div className="bg-card border rounded-lg p-8 max-w-2xl hover:glow-border transition-shadow">
-              <div className="flex items-start gap-5">
-                  <div className="w-14 h-14 rounded-lg bg-primary/10 flex items-center justify-center shrink-0">
-                      <GraduationCap className="text-primary" size={28} />
-                  </div>
-                  <div>
-                      <h3 className="text-xl font-semibold mb-1">
-                          Secondary (X)
-                      </h3>
-                      <p className="text-primary font-mono text-sm mb-2">
-                          Kamaraj Matriculation Higher Secondary School
-                      </p>
-                      <p className="text-muted-foreground text-sm mb-4">
-                          2019  • Percentage : 80%
-                      </p>
 
-                  </div>
-              </div>
-          </div>
 
       </div>
     </section>
