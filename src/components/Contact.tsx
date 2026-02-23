@@ -29,7 +29,7 @@ const Contact = () => {
           {/* Contact Info */}
           <div className="space-y-6">
             <a
-              href="mailto:alex.johnson@email.com"
+              href="mailto:harishprashath432@gmail.com"
               className="flex items-center gap-4 text-muted-foreground hover:text-primary transition-colors group"
             >
               <div className="w-12 h-12 rounded-lg bg-card border flex items-center justify-center group-hover:glow-border transition-shadow">
@@ -37,12 +37,12 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-xs font-mono text-muted-foreground">Email</p>
-                <p className="text-sm text-foreground">alex.johnson@email.com</p>
+                <p className="text-sm text-foreground">harishprashath432@gmail.com</p>
               </div>
             </a>
 
             <a
-              href="#"
+              href="https://www.linkedin.com/in/harish-prashath-50404831a"
               className="flex items-center gap-4 text-muted-foreground hover:text-primary transition-colors group"
             >
               <div className="w-12 h-12 rounded-lg bg-card border flex items-center justify-center group-hover:glow-border transition-shadow">
@@ -50,12 +50,12 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-xs font-mono text-muted-foreground">LinkedIn</p>
-                <p className="text-sm text-foreground">linkedin.com/in/alexjohnson</p>
+                <p className="text-sm text-foreground">linkedin.com/in/harish-prashath</p>
               </div>
             </a>
 
             <a
-              href="#"
+              href="https://github.com/Harishprashath"
               className="flex items-center gap-4 text-muted-foreground hover:text-primary transition-colors group"
             >
               <div className="w-12 h-12 rounded-lg bg-card border flex items-center justify-center group-hover:glow-border transition-shadow">
@@ -63,7 +63,7 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-xs font-mono text-muted-foreground">GitHub</p>
-                <p className="text-sm text-foreground">github.com/alexjohnson</p>
+                <p className="text-sm text-foreground">github.com/</p>
               </div>
             </a>
           </div>

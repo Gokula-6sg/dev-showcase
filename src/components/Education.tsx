@@ -17,13 +17,13 @@ const Education = () => {
             </div>
             <div>
               <h3 className="text-xl font-semibold mb-1">
-                B.Tech in Computer Science & Engineering
+                  B.E. Computer Science Engineering
               </h3>
               <p className="text-primary font-mono text-sm mb-2">
-                National Institute of Technology
+                  Panimalar Engineering College
               </p>
               <p className="text-muted-foreground text-sm mb-4">
-                2023 – 2027 (Expected) • CGPA: 8.5/10
+                2023 – 2027 (Expected) • CGPA: 7.5/10
               </p>
               <div>
                 <p className="text-sm font-medium mb-2">Relevant Coursework:</p>

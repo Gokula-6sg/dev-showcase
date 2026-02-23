@@ -2,35 +2,19 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "College Forum Platform",
+    title: "SpamShield– Machine Learning Based Email Spam Detection\n",
     description:
-      "A full-stack discussion forum for college students to share knowledge, ask questions, and collaborate on projects. Features real-time updates and role-based access.",
-    tech: ["React", "Node.js", "MongoDB", "Socket.io"],
+      " Built an email spam detection system using NLP preprocessing and TF-IDF feature extraction.",
+    tech: ["Python", "NLP", "LSTM", "Naive bayes"],
     github: "#",
-    live: "#",
+    live: null,
   },
   {
-    title: "AI Network Monitor",
+    title: "Student Smart Ai",
     description:
-      "An AI-powered dashboard for monitoring network traffic, detecting anomalies, and generating security reports. Built with machine learning models for intrusion detection.",
-    tech: ["Python", "Flask", "TensorFlow", "React"],
-    github: "#",
-    live: "#",
-  },
-  {
-    title: "Timetable Scheduler",
-    description:
-      "An intelligent scheduling system that generates conflict-free timetables using constraint satisfaction algorithms. Supports multiple departments and resource management.",
-    tech: ["Java", "Spring Boot", "PostgreSQL", "React"],
-    github: "#",
-    live: "#",
-  },
-  {
-    title: "MiniBootOS",
-    description:
-      "A minimal operating system bootloader written in x86 Assembly. Boots from BIOS, initializes protected mode, and provides a basic command-line interface.",
-    tech: ["Assembly", "C", "NASM", "QEMU"],
-    github: "#",
+      "Built an system for students to know about core details specific Topics",
+    tech: ["python", "C", "NASM", "QEMU"],
+    github: "https://github.com/vinoj-m/StudySmart-AI",
     live: null,
   },
 ];

@@ -1,32 +1,13 @@
 const experiences = [
+
+
   {
-    role: "Backend Developer Intern",
-    org: "TechStart Solutions",
-    duration: "Jun 2025 – Aug 2025",
+    role: "Python programming intern",
+    org: "Codetech IT Solutions\n",
+    duration: "jun 2025 - july 2025",
     contributions: [
-      "Developed RESTful APIs using Node.js and Express.js serving 10K+ daily requests",
-      "Implemented JWT-based authentication and role-based access control",
-      "Optimized database queries reducing response times by 40%",
-    ],
-  },
-  {
-    role: "Cybersecurity Team Lead",
-    org: "University CTF Club",
-    duration: "Sep 2024 – Present",
-    contributions: [
-      "Led a team of 8 members in national-level CTF competitions",
-      "Conducted weekly workshops on network security and penetration testing",
-      "Achieved top 10 ranking in 3 inter-university competitions",
-    ],
-  },
-  {
-    role: "Full Stack Developer",
-    org: "HackathonX – Smart Campus Hackathon",
-    duration: "Mar 2025",
-    contributions: [
-      "Built a real-time campus navigation system in 24 hours",
-      "Integrated Google Maps API with custom indoor mapping",
-      "Won 2nd place among 50+ participating teams",
+      "Completed 4 AI-based Python tasks and implemented real-world problem solutions.",
+
     ],
   },
 ];

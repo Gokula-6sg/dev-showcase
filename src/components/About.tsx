@@ -13,17 +13,12 @@ const About = () => {
         <div className="grid md:grid-cols-5 gap-12 items-start">
           <div className="md:col-span-3 space-y-4 text-muted-foreground leading-relaxed">
             <p>
-              Hello! I'm Alex, a Computer Science student with a deep passion for backend development and cybersecurity. I enjoy solving complex problems and building scalable systems that make a difference.
+              Hello! I'm Harish Prashath, a Computer Science student with a deep passion for Software developer. I enjoy solving complex problems and building scalable systems that make a difference.
             </p>
             <p>
-              My journey in tech started with curiosity about how systems communicate securely over networks. This led me to explore ethical hacking, network analysis with Wireshark, and eventually building full-stack applications with modern frameworks.
+                I’m a pre-final year Computer Science Engineering student passionate about coding and problem solving. I enjoy building practical projects and continuously improving my skills in Python, Java, and software development.
             </p>
-            <p>
-              When I'm not coding, you'll find me participating in CTF competitions, contributing to open-source projects, or tinkering with Linux systems. I'm always eager to learn something new and take on challenging projects.
-            </p>
-            <p>
-              I'm currently looking for internship opportunities where I can apply my skills in backend development and cybersecurity while learning from experienced professionals.
-            </p>
+
           </div>
 
           <div className="md:col-span-2 flex justify-center">

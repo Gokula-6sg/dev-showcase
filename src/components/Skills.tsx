@@ -1,23 +1,20 @@
 const skillCategories = [
   {
     title: "Programming Languages",
-    skills: ["Java", "JavaScript", "Python", "C"],
+    skills: ["Java", "HTML", "Python", "C" , "SQL"],
   },
   {
-    title: "Backend",
-    skills: ["Node.js", "Express.js", "Spring Boot", "REST APIs"],
+    title: "Concepts",
+    skills: ["DBMS", "OOP", "Computer Networks", "REST APIs"],
   },
   {
     title: "Frontend",
-    skills: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
+    skills: [ "HTML", "CSS", "Tailwind CSS"],
   },
+
   {
-    title: "Cybersecurity",
-    skills: ["Networking", "Wireshark", "Ethical Hacking", "Linux Security"],
-  },
-  {
-    title: "Tools & DevOps",
-    skills: ["Git", "GitHub", "Linux", "Docker", "VS Code"],
+    title: "Tools",
+    skills: ["Git", "GitHub", "Vs code"],
   },
 ];
 
