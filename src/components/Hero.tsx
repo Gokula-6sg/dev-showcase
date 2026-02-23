@@ -28,7 +28,7 @@ const Hero = () => {
             View Projects
           </a>
           <a
-            href="https://drive.google.com/file/d/1bSIGJpentxma7Ix9qluMPgNWf7B9bYBa/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1NAa3BQ79ybgIZfN8YTCBLwQvP1TEwWfr/view?usp=drive_link"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-md bg-primary text-primary-foreground font-mono text-sm hover:opacity-90 transition-opacity"
           >
             <FileDown size={16} />

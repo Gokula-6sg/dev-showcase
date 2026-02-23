@@ -6,7 +6,7 @@ const projects = [
     description:
       " Built an email spam detection system using NLP preprocessing and TF-IDF feature extraction.",
     tech: ["Python", "NLP", "LSTM", "Naive bayes"],
-    github: "#",
+    github: "https://github.com/Harishprashath/mini_project",
     live: null,
   },
   {
@@ -14,7 +14,7 @@ const projects = [
     description:
       "Built an system for students to know about core details specific Topics",
     tech: ["python", "C", "NASM", "QEMU"],
-    github: "https://github.com/vinoj-m/StudySmart-AI",
+    github: "https://github.com/Harishprashath/StudySmart-AI",
     live: null,
   },
 ];
